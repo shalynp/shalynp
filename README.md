@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shalynp
 - 👀 I’m interested in front end developing
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning Visual design - including UX, UI, Photoshop, Illustrator, Figma
 - 📫 How to reach me: shalynxp3@gmail.com
 
 <!---
